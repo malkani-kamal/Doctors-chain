@@ -1,4 +1,4 @@
-Project create kamal malkani for the bigenners.
+Blockchain project created by kamal malkani for storing doctors and patient information.
 This project is running the network on the docker.
 --------------------------------------------------
 
